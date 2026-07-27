@@ -1,0 +1,4 @@
+interface:
+  display_name: "Verify a Next.js issue on canary"
+  short_description: "Compare reported Next.js behavior with canary"
+  default_prompt: "Use $nextjs-verify-canary to compare this reproduction on its reported version and next@canary."

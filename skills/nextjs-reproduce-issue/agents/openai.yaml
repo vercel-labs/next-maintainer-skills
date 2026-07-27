@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reproduce a Next.js issue"
+  short_description: "Build and validate minimal Next.js reproductions"
+  default_prompt: "Use $nextjs-reproduce-issue to reproduce this Next.js issue and report concrete evidence."

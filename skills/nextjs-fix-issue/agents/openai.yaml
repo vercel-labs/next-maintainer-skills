@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fix a Next.js issue"
+  short_description: "Implement and validate a minimal Next.js fix"
+  default_prompt: "Use $nextjs-fix-issue to implement the smallest correct fix for this validated Next.js issue."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create a Next.js regression test"
+  short_description: "Add the smallest useful Next.js regression test"
+  default_prompt: "Use $nextjs-create-regression-test to turn this validated reproduction into a focused Next.js regression test."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bisect a Next.js regression"
+  short_description: "Locate a Next.js regression or fix boundary"
+  default_prompt: "Use $nextjs-bisect-regression to find the first changed and last unchanged Next.js versions or commits."
