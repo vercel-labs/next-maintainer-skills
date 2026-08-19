@@ -28,3 +28,8 @@ npx skills add vercel-labs/next-maintainer-skills \
 
 These skills are tool-agnostic. They use the shell, browser, GitHub, and other
 capabilities available in the agent that installs them.
+
+## Development
+
+When updating a skill, keep its `SKILL.md` instructions and any referenced
+scripts or assets in sync.
